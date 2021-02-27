@@ -1,6 +1,5 @@
 import requests, re
 import pandas as pd
-from helium import *
 from bs4 import BeautifulSoup
 
 job_listings = []
