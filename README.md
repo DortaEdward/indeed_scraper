@@ -1,1 +1,1 @@
-# linkedin_scraper
+# indeed_scraper
